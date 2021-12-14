@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Regis">
+    <EditText
+        android:id="@+id/regemail"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/email"
+        android:inputType="textEmailAddress"
+        android:hint="Enter Email"/>
+
+    <EditText
+        android:layout_margin="20dp"
+        android:id="@+id/regpwd"
+        android:layout_width="match_parent"
+        android:hint="Enter Password"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/gembok"
+        android:inputType="textPassword" />
+    <EditText
+        android:layout_margin="20dp"
+        android:id="@+id/regpwdconfirm"
+        android:layout_width="match_parent"
+        android:hint="Re type Password"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/gembok"
+        android:inputType="textPassword" />
+    <EditText
+        android:id="@+id/regname"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/user"
+        android:inputType="text"
+        android:hint="Enter Name"/>
+
+
+    <Button
+        android:id="@+id/signupbtn"
+        android:hint="Enter Password"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SIGN UP"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

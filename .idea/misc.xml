@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_jsonarray.xml" value="0.1082427536231884" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_main.xml" value="0.15081521739130435" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_order.xml" value="0.2" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_produk.xml" value="0.13020833333333334" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/activity_regis.xml" value="0.15081521739130435" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/fragment_qty.xml" value="0.2923076923076923" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/item_row.xml" value="0.4" />
+        <entry key="..\:/MAGANG/coding/bisadong/app/src/main/res/layout/simple_list.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
